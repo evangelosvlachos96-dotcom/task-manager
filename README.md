@@ -1,7 +1,25 @@
-Task Manager is a full-stack web application built using the MERN stack, which stands for MongoDB, Express.js, React, and Node.js. The application provides a basic CRUD (Create, Read, Update, Delete) functionality, allowing users to add, view, update, and delete tasks.
+# Task Manager
 
-The backend of the application is built using Node.js and Express.js, which provide a robust and scalable server-side environment. The NoSQL database MongoDB is used to store and manage the data, and the mongoose library is used to interact with the database.
+## Introduction
+A full-stack MERN application for task management with CRUD functionality.
 
-On the frontend, the application uses React, a popular JavaScript library for building user interfaces, to create a responsive and dynamic interface. The UI is designed using HTML and CSS, with Axios used to communicate with the backend and update the UI in real-time.
+## Features
+- Add, view, update, and delete tasks.
+- Responsive and dynamic user interface.
+- Backend: Node.js, Express.js.
+- Frontend: React, HTML, CSS.
+- Database: MongoDB with mongoose.
 
-Overall, Task Manager is a simple yet powerful application that can help users manage their daily tasks with ease. With its intuitive UI and robust backend, it provides a seamless user experience that is both efficient and effective.
+## Technologies
+- MERN Stack (MongoDB, Express.js, React, Node.js).
+
+## Installation
+1. Clone the repository: `git clone https://github.com/StevenGKOR/task-manager.git`.
+2. Install dependencies: `npm install`.
+3. Set up your environment variables in a `.env` file (e.g., `DB_CONNECT`, `PORT`, `JWT_SECRET`).
+4. Start the application: `npm start`.
+
+## Usage
+Manage daily tasks efficiently with intuitive UI and robust backend.
+
+[GitHub Repository](https://github.com/StevenGKOR/task-manager)
