@@ -22,4 +22,4 @@ A full-stack MERN application for task management with CRUD functionality.
 ## Usage
 Manage daily tasks efficiently with intuitive UI and robust backend.
 
-[GitHub Repository](https://github.com/StevenGKOR/task-manager)
+[GitHub Repository](https://github.com/alexandrosgialantzis/task-manager.git)
