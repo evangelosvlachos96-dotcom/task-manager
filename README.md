@@ -13,11 +13,6 @@ A full-stack MERN application for task management with CRUD functionality.
 ## Technologies
 - MERN Stack (MongoDB, Express.js, React, Node.js).
 
-## Installation
-1. Clone the repository: `git clone https://github.com/alexandrosgialantzis/task-manager.git`.
-2. Install dependencies: `npm install`.
-3. Set up your environment variables in a `.env` file (e.g., `DB_CONNECT`, `PORT`, `JWT_SECRET`).
-4. Start the application: `npm start`.
 
 ## Usage
 Manage daily tasks efficiently with intuitive UI and robust backend.
